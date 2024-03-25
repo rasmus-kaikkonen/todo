@@ -1,5 +1,5 @@
 import { Todos } from "./class/Todos.js";
-const BACKEND_ROOT_URL = 'http://localhost:3001';
+const BACKEND_ROOT_URL = 'https://todo-server-8he8.onrender.com';
 
 const todos = new Todos(BACKEND_ROOT_URL);
 
